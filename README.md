@@ -1,2 +1,2 @@
 # Forex_Scripts
-Algorithmic Trading Bots/Experts and Indicators
+Algorithmic Trading Bots/EAs and Indicators
