@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="cTrader.Automate" Version="1.*" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Indicators\HighLow V2\HighLow V2\HighLow V2.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Indicators\HighLowV2\HighLowV2\HighLowV2.csproj" />
+  </ItemGroup>
+</Project>

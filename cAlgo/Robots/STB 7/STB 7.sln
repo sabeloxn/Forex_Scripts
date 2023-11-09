@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STB 7", "STB 7\STB 7.csproj", "{3B90FFDA-C4E2-43A9-92F8-CCCFCF0D88F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B90FFDA-C4E2-43A9-92F8-CCCFCF0D88F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B90FFDA-C4E2-43A9-92F8-CCCFCF0D88F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B90FFDA-C4E2-43A9-92F8-CCCFCF0D88F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B90FFDA-C4E2-43A9-92F8-CCCFCF0D88F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blackgoldindi3", "..\..\Indicators\Blackgoldindi3\Blackgoldindi3\Blackgoldindi3.csproj", "{B6C5FD0C-3C82-405A-AA8B-43554FA5B879}"
+EndProject

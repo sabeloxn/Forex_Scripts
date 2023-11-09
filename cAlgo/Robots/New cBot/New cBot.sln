@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New cBot", "New cBot\New cBot.csproj", "{14355C64-6B98-4F86-B30F-D8A7C09A6625}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14355C64-6B98-4F86-B30F-D8A7C09A6625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14355C64-6B98-4F86-B30F-D8A7C09A6625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14355C64-6B98-4F86-B30F-D8A7C09A6625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14355C64-6B98-4F86-B30F-D8A7C09A6625}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

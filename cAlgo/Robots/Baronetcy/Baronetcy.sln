@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baronetcy", "Baronetcy\Baronetcy.csproj", "{57F5F638-4C2C-4750-975A-A9C47D9A87A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57F5F638-4C2C-4750-975A-A9C47D9A87A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F5F638-4C2C-4750-975A-A9C47D9A87A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F5F638-4C2C-4750-975A-A9C47D9A87A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F5F638-4C2C-4750-975A-A9C47D9A87A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+
+
+
+
+
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testindi", "..\..\Indicators\testindi\testindi\testindi.csproj", "{5B28D695-1D78-43E4-9C6A-8401F897953C}"
+EndProject
+
+
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blackgoldindi", "..\..\Indicators\Blackgoldindi\Blackgoldindi\Blackgoldindi.csproj", "{EB4514B8-FBC9-4642-B43A-803E13F437DD}"
+EndProject

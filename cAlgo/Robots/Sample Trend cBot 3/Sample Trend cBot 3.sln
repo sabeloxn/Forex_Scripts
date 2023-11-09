@@ -1,0 +1,24 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample Trend cBot 3", "Sample Trend cBot 3\Sample Trend cBot 3.csproj", "{118F3E60-802A-4768-97B5-1B29BFDBEB0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{118F3E60-802A-4768-97B5-1B29BFDBEB0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{118F3E60-802A-4768-97B5-1B29BFDBEB0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{118F3E60-802A-4768-97B5-1B29BFDBEB0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{118F3E60-802A-4768-97B5-1B29BFDBEB0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+
+
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blackgoldindi2", "..\..\Indicators\Blackgoldindi2\Blackgoldindi2\Blackgoldindi2.csproj", "{1C88BFC9-1792-4DFC-9244-9BE0E5AD07E2}"
+EndProject
