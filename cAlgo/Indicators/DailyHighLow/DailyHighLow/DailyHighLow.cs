@@ -103,23 +103,7 @@ namespace cAlgo.Indicators
 
                 }
             }
-            
-            //what is the next bar?
-            //remove drawings from bar if there is a bar of the same color before close trigger
-            //redraw on the bar that is the same color
-            //draw on green bar with higher low and red bar with lower high
-            //draw until tested from above or below
-            //draw if red close is less that green low or green close is higher than red high
-            //draw history to see previous positions for backtest purposes
-            //cannot draw history and keep track at the same time have have to seprate streams
-            //draw until bar of same color
-            //or close above/below the trigger
-            //remove drawings from bar if there is a bar of the same color before close trigger
-
-
-
-
-
+        
             if (bearishBar)
             {
                 //Chart.DrawTrendLine("Bear high " + DrawStartday, DrawStartDay, Bearhigh, tomorrow, Bearhigh, BearHighcolor);
