@@ -5,9 +5,13 @@
 ## Download and install VSCode ( or any IDE of your choice)
 
 ## MAC Users (in Terminal (optional))
+
 > open -e  ~/.zshrc
+> 
 _add:_
+
 > alias python="python3"
+> 
 _Save and restart console_
 
 _confirm command line tools installation_ and
