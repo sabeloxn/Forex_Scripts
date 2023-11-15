@@ -20,8 +20,8 @@ loss=0
 loss_streak=0
 option_type = ""
 #LOG IN TO TRADE ACCOUNT
-my_user = "teyasabelo@gmail.com"    #input("Username :") #YOUR IQOPTION USERNAME "teyasabelo@gmail.com"#
-my_pass = "wzt79iczg.*Z.Z9"         #getpass.getpass("Password:") #YOUR IQOTION PASSWORD "nhrFtXqQw@QCHi7"#
+my_user = ""    #input("Username :") #YOUR IQOPTION USERNAME "teyasabelo@gmail.com"#
+my_pass = ""         #getpass.getpass("Password:") #YOUR IQOTION PASSWORD "nhrFtXqQw@QCHi7"#
 #CONNECT ==>:
 
 Iq=IQ_Option(my_user,my_pass)
