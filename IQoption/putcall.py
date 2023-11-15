@@ -59,9 +59,7 @@ for i in range(purchase_time,0,-1):
 
 #PLACE ORDERS
 while now < end_time:
-    # now=datetime.now()
-    # current_time= now.strftime("%H:%M:%S")
-    # print("Current Time: ", current_time)
+    
 
     for k in list(cc.keys()):
         open=(cc[k]['open'])
@@ -73,14 +71,7 @@ while now < end_time:
             print("Green")
 
             check,id=Iq.buy(Money,goal,"call",expirations_mode)
-            # Set pointer position
-            # mouse.position = (1309, 361)
-            # #print('Now we have moved it to {0}'.format(
-            #    # mouse.position))
-
-            # # Press and release
-            # mouse.press(Button.left)
-            # mouse.release(Button.left)
+            
             if check:
                 print("'CALL' Option Placed.")
                 print("Awaiting 'Call' Option Result...")
@@ -97,14 +88,7 @@ while now < end_time:
             #PUT OPTION
             print("Red")
             check,id=Iq.buy(Money,goal,"put",expirations_mode)
-            # Set pointer position
-            # mouse.position = (1317, 449)
-            # #print('Now we have moved it to {0}'.format(
-            #    # mouse.position))
-
-            # # Press and release
-            # mouse.press(Button.left)
-            # mouse.release(Button.left)
+            
             if check:
                 print("'PUT' Option Placed.")
                 print("Awaiting 'Put' Option Result...")
