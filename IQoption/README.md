@@ -1,6 +1,7 @@
 # Environment Setup 
 
-Download and install python 
+## Download and install [Python](https://www.python.org/downloads/) 
+
 Download and install vs code
 
 do the echo alias thing 
