@@ -1,5 +1,7 @@
-download and install python 
-download and install vs code
+#Environment Setup 
+
+Download and install python 
+Download and install vs code
 
 do the echo alias thing 
 
