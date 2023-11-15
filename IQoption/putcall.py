@@ -9,8 +9,8 @@ import os
 #--
 #mouse=Controller()
 #PLATFORM CREDENTIALS
-my_user ="sabeloxnxele@gmail.com"         #input("Username: ")
-my_pass ="tWbZ9!4xg_et4HC"            #input("Password: ")
+my_user =""         #input("Username: ")
+my_pass =""            #input("Password: ")
 
 #LOG IN TO TRADE ACCOUNT
 Iq=IQ_Option(my_user,my_pass)
