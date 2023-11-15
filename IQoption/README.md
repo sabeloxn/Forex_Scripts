@@ -2,9 +2,9 @@
 
 ## Download and install [Python](https://www.python.org/downloads/) 
 
-##Download and install VSCode ( or any IDE of your choice)
+## Download and install VSCode ( or any IDE of your choice)
 
-##MAC Users (in Terminal (optional))
+## MAC Users (in Terminal (optional))
 > open -e  ~/.zshrc
 _add:_
 > alias python="python3"
