@@ -1,4 +1,4 @@
-#Environment Setup 
+# Environment Setup 
 
 Download and install python 
 Download and install vs code
