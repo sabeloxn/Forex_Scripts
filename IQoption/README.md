@@ -2,7 +2,7 @@
 
 ## Download and install [Python](https://www.python.org/downloads/) 
 
-## Download and install VSCode ( or any IDE of your choice)
+## Download and install [VSCode](https://code.visualstudio.com/download) ( or any IDE of your choice)
 
 ## MAC Users (in Terminal (optional))
 
