@@ -14,8 +14,10 @@ _confirm command line tools installation_ and
 install [command line tools](https://macpaw.com/how-to/install-command-line-tools?campaign=cmmx_search_dsa_ww_en&ci=20162564605&adgroupid=152187932791&adpos=&ck=&targetid=aud-2065324190105:dsa-2064412863066&match=&gnetwork=g&creative=659143521341&placement=&placecat=&accname=cmm&gclid=CjwKCAiA9dGqBhAqEiwAmRpTCxUE8oC8AcUMf2knjKq9w29Eos3llSz8d3BWcdJyg5zgD1OMSSPB3xoC67UQAvD_BwE) if not present.
 
 _Run:_
-> curl home-brew 
+> curl home-brew
+
 > brew install talib 
+
 > pip or pip3 install talib
 
 ## Install iqoption api :
