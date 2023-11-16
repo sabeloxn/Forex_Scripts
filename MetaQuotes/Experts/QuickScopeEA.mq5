@@ -1,7 +1,7 @@
 //+------------------------------------------------------------------+
 //|                                       XAU Qiuck Scope v1.0.1.mq5 |
 //|                                  Copyright 2023,SabeloNxele Ltd. |
-//|                                                                  |
+//|                                      https://github.com/sabeloxn |
 //+------------------------------------------------------------------+
 #property copyright ""
 #property link      ""
