@@ -1,7 +1,7 @@
 //+------------------------------------------------------------------+
-//|                                                 TradingDayEA.mq5 |
+//|                                           RangeAndBreakoutEA.mq5 |
 //|                                  Copyright 2022, MetaQuotes Ltd. |
-//|                                             https://www.mql5.com |
+//|                                      https://github.com/sabeloxn |
 //+------------------------------------------------------------------+
 #include <Telegram.mqh>
 
