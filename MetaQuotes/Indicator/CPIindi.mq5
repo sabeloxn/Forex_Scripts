@@ -1,7 +1,7 @@
 //+------------------------------------------------------------------+
-//|                                                 CPIindicator.mq5 |
+//|                                                      CPIindi.mq5 |
 //|                                           Copyright SabeloN 2023 |
-//|                                                                  |
+//|                                      https://github.com/sabeloxn |
 //+------------------------------------------------------------------+
 input string IndicatorName="cpiIndi";        //Indicator Short Name
 input int HistoryBarsToLoad=1000;
