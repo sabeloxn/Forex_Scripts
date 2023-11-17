@@ -11,7 +11,7 @@ using cAlgo.Indicators;
 namespace cAlgo.Robots
 {
     [Robot(AccessRights = AccessRights.None)]
-    public class NewcBot2 : Robot
+    public class 360QuickScope : Robot
     {
         private AimAssistv110 _aimAssist;
         public bool UseMa { get; set; } public MovingAverageType MaType { get; set; }public bool UseLRF { get; set; }public int LRFPeriod { get; set; }public bool UseSAR { get; set; }public double Minaf { get; set; }public double Maxaf { get; set; }public int PSARshift {get;set;}public int MaPeriods { get; set; }public bool UseStoch { get; set; }public int kPeriods{get;set;}public int kSlowing{get;set;}public int dPeriods{get;set;}public MovingAverageType StochMaType { get; set; }public double SignalSpace{get;set;} public bool ShowPeriod {get; set;}
