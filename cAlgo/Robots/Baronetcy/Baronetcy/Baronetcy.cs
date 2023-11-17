@@ -54,10 +54,6 @@ namespace cAlgo.Robots
         [Parameter("stfStop Buffer", DefaultValue = 0.3, MinValue = 0.1)]
         public double stfstopBuffer { get; set; }
 
-        /*[Parameter("stfLongBuffer", DefaultValue = 0.1, MinValue = 0.01)]
-        public double stflongBuffer { get; set; }
-        [Parameter("stfShortBuffer", DefaultValue = 0.1, MinValue = 0.01)]
-        public double stfshortBuffer { get; set; }*/
 //----------------------------------------------------------RANGE PARAMETERS------------------------------------------------------------------
         [Parameter("Range enabled")]
         public bool range { get; set; }
