@@ -57,8 +57,7 @@ namespace cAlgo.Robots
             // Handle price updates here
              BuySignalRecieved   = _aimAssist.BuySignal.LastValue;
              SellSignalRecieved  = _aimAssist.SellSignal.LastValue;
-        
-            //Print("Buy Signal: "+BuySignalRecieved+" |****| "+" Sell Signal: "+SellSignalRecieved);}
+             
              ClosePrice      =  Bars.ClosePrices.LastValue;
              
              SellEntry       = _aimAssist.ShortEntrySeries.LastValue;
